@@ -1,0 +1,4 @@
+export enum INSURANCE_TYPES {
+    CASCO = 'CASCO',
+    LIABILITY = 'LIABILITY',
+}
